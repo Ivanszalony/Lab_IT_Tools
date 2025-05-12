@@ -20,3 +20,4 @@ git pull
 git push
 git pull --rebase
 git add
+git commit -m
